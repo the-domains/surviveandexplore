@@ -11,15 +11,15 @@ description: >-
   time to boil down the process to a few easy steps so that YOU can choose your
   knife without feeling the pressure of a salesman. As a summary, we have 4
   steps that should put you well on your way:
-datePublished: '2016-08-17T20:27:26.875Z'
-dateModified: '2016-08-17T20:27:11.302Z'
+datePublished: '2016-08-17T20:30:36.821Z'
+dateModified: '2016-08-17T20:30:29.630Z'
 title: Decide on the Use
 author: []
 via: {}
+sourcePath: _posts/2016-08-17-decide-on-the-use.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-17-decide-on-the-use.md
 url: decide-on-the-use/index.html
 _type: Article
 
@@ -46,7 +46,7 @@ Ok, so we broke blades down into four common categories with easy-to-understand 
 Honestly not much to explain, take a look at the picture. We agree, it is pretty much a straight forward name.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89677f03-37f3-4cf7-b20e-82187812fffe.jpg)
 
-[BUCK KNIVES 2599 KNIGHT 1-7/8" BLADE][0]  
+[BUCK KNIVES 2599 KNIGHT 1-7/8" BLADE][0]
 
 ### Serrated Blade
 
