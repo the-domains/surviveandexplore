@@ -12,16 +12,16 @@ description: >-
   your own for at least three days. As such, your essentials of outdoor survival
   must include an array of items across a myriad of survival categories to
   guarantee that all of your basic needs are met in case of an emergency.
-datePublished: '2016-08-17T20:17:41.555Z'
-dateModified: '2016-08-17T20:17:41.266Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-17T20:31:29.019Z'
+dateModified: '2016-08-17T20:31:20.034Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-17-being-outdoor-sie-means-being-prepared-for-all-that-the-gr.md
+authors: []
+publisher: {}
+starred: false
 url: being-outdoor-sie-means-being-prepared-for-all-that-the-gr/index.html
 _type: Article
 
