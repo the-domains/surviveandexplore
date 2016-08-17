@@ -1,0 +1,28 @@
+name: SurviveandExplore
+favicon: null
+layout_spectrum: 0.03281865455210209
+typography_spectrum: 0.6055476572364569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9861745599191636
+  lightness: 0.6364068570546806
+  saturation: 0.5329312176909298
+  rhythmicContrast: 0.8753384849987924
+purpose: []
