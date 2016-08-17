@@ -11,8 +11,8 @@ description: >-
   time to boil down the process to a few easy steps so that YOU can choose your
   knife without feeling the pressure of a salesman. As a summary, we have 4
   steps that should put you well on your way:
-datePublished: '2016-08-17T20:33:57.014Z'
-dateModified: '2016-08-17T20:32:31.395Z'
+datePublished: '2016-08-17T20:34:27.746Z'
+dateModified: '2016-08-17T20:34:20.942Z'
 title: Decide on the Use
 author: []
 via: {}
